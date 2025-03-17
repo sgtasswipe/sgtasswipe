@@ -17,9 +17,9 @@
 ---
  
 # 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xripzch&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=xripzch&theme=monokai&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xripzch&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgtasswipe&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sgtasswipe&theme=monokai&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgtasswipe&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
 ---
  
@@ -28,6 +28,6 @@
  
 ---
  
-[![Visitor Count](https://visitcount.itsvg.in/api?id=xRipzch&icon=0&color=8)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=sgtasswipe&icon=0&color=8)](https://visitcount.itsvg.in)
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
